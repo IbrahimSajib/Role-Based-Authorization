@@ -566,3 +566,4 @@ E:\Role Based Authorization\Role Based Authorization\obj\Debug\net8.0\refint\Rol
 E:\Role Based Authorization\Role Based Authorization\obj\Debug\net8.0\Role Based Authorization.pdb
 E:\Role Based Authorization\Role Based Authorization\obj\Debug\net8.0\Role Based Authorization.genruntimeconfig.cache
 E:\Role Based Authorization\Role Based Authorization\obj\Debug\net8.0\ref\Role Based Authorization.dll
+D:\Practice For Github\Role Based Authorization\Role Based Authorization\obj\Debug\net8.0\Role Based Authorization.sourcelink.json

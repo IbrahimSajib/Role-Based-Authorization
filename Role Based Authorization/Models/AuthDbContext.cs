@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Authentication_Project.Models
+namespace Role_Based_Authorization.Models
 {
     public class AuthDbContext : IdentityDbContext
     {

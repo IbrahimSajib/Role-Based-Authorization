@@ -1,5 +1,4 @@
-using Authentication_Project.Models;
-using Humanizer;
+using Role_Based_Authorization.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
